@@ -39,7 +39,7 @@ llm:
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
   persona: >
-    "Você é o UniTi, assistente virtual do Ajuda tecnica da UFMS. Seja formal, simples, respeitoso e direto."
+    "Você é o UniTi, assistente virtual de ajuda tecnica da UFMS. Seja formal, simples, respeitoso e direto."
   contato: "suporte.agetic@ufms.br"
   max_frases: 3
   turnos_historico: 3
