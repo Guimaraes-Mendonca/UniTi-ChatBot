@@ -6,19 +6,21 @@
 # =============================================================================
 
 grupo:
-  nome: "TODO: nome do grupo (ex.: Grupo 3)"
+  nome: "UniTi"
   integrantes:          # 3 a 4 integrantes
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
+    - nome: "Pedro Henrique Guimarães Mendonça"
+      rga: "2025.1906.027-9"
+    - nome: "joão Vitor limonges Bedadaque"
+      rga: "2023.1906.039-9"
+    - nome: "Caio Magno Borges Fernandes"
+      rga: "2025.1906-048-1"
+    - nome: "Jean Flávio Zapata Tezini"
+      rga: "2025.1906.036-8"
 
 tema:
-  nome: "TODO: tema validado com o professor"
+  nome: "UniTi - Chat Bot de Assistência com Tecnologias Acadêmicasr"
   descricao: >
-    TODO: uma ou duas frases dizendo o que o bot faz e para quem.
+    chatbot para ajudar alunos da UFMS com problemas relacionados as tecnologias oferecidas pela universidade
 
 dados:                  # caminhos relativos a este arquivo - não altere
   treino: dados/treino.csv
@@ -37,9 +39,8 @@ llm:
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
   persona: >
-    TODO: quem é o bot e como ele fala. Ex.: "Você é o Rex, assistente virtual do
-    Restaurante Universitário. Seja cordial, simples e direto."
-  contato: "TODO: para onde encaminhar o que o bot não sabe (setor, e-mail...)"
+    "Você é o UniTi, assistente virtual do Ajuda tecnica da UFMS. Seja formal, simples, respeitoso e direto."
+  contato: "suporte.agetic@ufms.br"
   max_frases: 3
   turnos_historico: 3
 
@@ -60,28 +61,72 @@ roteamento:
 
 # De 5 a 10 intenções. O nome (chave) deve ter só letras minúsculas sem acento,
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
+
 intencoes:
-  TODO_intencao_1:
-    descricao: "TODO"
+  wifi:
+    descricao: "Ajuda com acesso e configuração da rede Wi-Fi institucional Eduroam."
     resposta: >
-      TODO: resposta fixa curta (usada sem LLM e na avaliação automática). Com o
-      LLM ligado, o bot responde a partir dos documentos da pasta documentos/.
-  TODO_intencao_2:
-    descricao: "TODO"
+      Posso ajudar com o acesso ao Wi-Fi institucional da UFMS.
+      Consulte os tutoriais de configuração da rede Eduroam disponíveis
+      na base de documentos.
+
+  email:
+    descricao: "Ajuda com acesso e configuração do e-mail institucional."
     resposta: >
-      TODO
-  TODO_intencao_3:
-    descricao: "TODO"
+      Posso ajudar com o acesso e a configuração do e-mail institucional.
+      Consulte os tutoriais de configuração disponíveis na base de documentos.
+
+  senha:
+    descricao: "Ajuda com recuperação e alteração de senha do Passaporte UFMS."
     resposta: >
-      TODO
-  TODO_intencao_4:
-    descricao: "TODO"
+      Posso ajudar com questões relacionadas à senha do Passaporte UFMS.
+      Consulte as orientações disponíveis na documentação do Passaporte UFMS.
+
+  ava:
+    descricao: "Ajuda com acesso ao Ambiente Virtual de Aprendizagem."
     resposta: >
-      TODO
-  TODO_intencao_5:
-    descricao: "TODO"
+      Posso ajudar com dúvidas sobre o acesso ao AVA.
+      Consulte os materiais de orientação disponíveis ou os canais
+      oficiais de suporte da UFMS.
+
+  sistemas:
+    descricao: "Ajuda com acesso e utilização dos sistemas acadêmicos e institucionais."
     resposta: >
-      TODO
+      Posso ajudar com dúvidas sobre os sistemas institucionais da UFMS.
+      Consulte os tutoriais disponíveis na base de documentos.
+
+  suporte:
+    descricao: "Orientações sobre problemas técnicos, VPN e canais de suporte de TI."
+    resposta: >
+      Posso orientar sobre problemas técnicos relacionados aos serviços
+      institucionais, incluindo acesso por VPN. Para obter atendimento,
+      consulte os canais oficiais de suporte da AGETIC/UFMS.
+
+  videoconferencia:
+    descricao: "Ajuda com utilização de ferramentas de conferência pela Web."
+    resposta: >
+      Posso ajudar com dúvidas sobre conferências pela Web.
+      Consulte o Manual de Conferência Web disponível na base de documentos.
+
+  google_drive:
+    descricao: "Ajuda com transferência de arquivos e utilização de drives compartilhados do Google Workspace."
+    resposta: >
+      Posso ajudar com dúvidas sobre transferência de arquivos e drives
+      compartilhados. Consulte os tutoriais do Google Workspace disponíveis
+      na base de documentos.
+
+  sei:
+    descricao: "Ajuda com procedimentos e utilização do Sistema Eletrônico de Informações."
+    resposta: >
+      Posso ajudar com dúvidas sobre o SEI. Consulte o procedimento geral
+      do Sistema Eletrônico de Informações disponível na base de documentos.
+
+  autenticacao:
+    descricao: "Ajuda com configuração e utilização da autenticação de dois fatores do Gmail."
+    resposta: >
+      Posso ajudar com dúvidas sobre autenticação de dois fatores do Gmail.
+      Consulte o tutorial disponível na base de documentos.
+
 
 # Respostas dos nós que não são intenções. {assuntos} vira a lista de descrições
 # das intenções; {opcao1}/{opcao2}, as duas intenções mais prováveis.
