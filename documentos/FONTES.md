@@ -21,3 +21,7 @@ Data de acesso às fontes: 02/11/2026.
 | sobre-o-passaporte-ufms.pdf | Print (captura de tela) do site Passaporte UFMS. https://passaporte.ufms.br/#/. Acesso em 02/11/2026. |
 | Tutorial-Acoes-nos-drives-compartilhados-do-google-workspace.pdf | AGETIC/UFMS. https://agetic.ufms.br/category/tutoriais/. Acesso em 02/11/2026. |
 | Tutorial-Autenticacao-de-Dois-Fatores-Gmail.pdf | AGETIC/UFMS. https://agetic.ufms.br/category/tutoriais/. Acesso em 02/11/2026. |
+| Moodle-Guia-rápido.pdf | AGEAD/UFMS. Guia rápido do Moodle. https://agead.ufms.br/files/2019/12/Moodle-Guia-r%C3%A1pido.pdf. Acesso em 16/11/2026. |
+| Siscad - UFMS.pdf | AGETIC/UFMS. Catálogo de Sistemas e Serviços — SISCAD. https://agetic.ufms.br/?servico=siscad-sistema-de-controle-academico-e-docente. Acesso em 16/11/2026. |
+| TUTORIAL-PASSAPORTE-UFMS.pdf | AGETIC/UFMS. Página oficial do Passaporte UFMS. https://agetic.ufms.br/agetic/passaporte-ufms/. Acesso em 16/11/2026. |
+| Guia-Acesso-Conferencia-Web-RNP.pdf | AGETIC/UFMS. Guia oficial de utilização da Conferência Web RNP. https://agetic.ufms.br/. Acesso em 16/11/2026. |

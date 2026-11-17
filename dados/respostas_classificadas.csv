@@ -1,0 +1,90 @@
+texto,intencao,origem
+oq eu faço se meu pc nao ta ligando?,fora_dominio,coletado
+pq o wifi ta caindo?,wifi,coletado
+como faço pra otimizar meu computador?,fora_dominio,coletado
+"esqueci minha senha, oq eu faço??",senha,coletado
+chat,chitchat,coletado
+oi,chitchat,coletado
+pode me ajudar?,chitchat,coletado
+qual melhor serie pra maratonar?,fora_dominio,coletado
+como joga xadrez?,fora_dominio,coletado
+qual melhor forma de entrar no mercaod de trabalho?,fora_dominio,coletado
+Por que a matrícula e as matérias já cursadas não estão aparecendo nem no app nem no site da ufms,sistemas,coletado
+"Não consigo acessar os certificados dos eventos que participei, como consigo acessá-los/ encontrá-los?",sistemas,coletado
+"Não consigo ver a localização do ônibus da UFMS, ele não atualiza, poderia informar onde ele está?",fora_dominio,coletado
+"Não lembro da minha senha de acesso, como posso proceder?",senha,coletado
+Por que o wifi não conecta?,wifi,coletado
+"Bom dia, preciso….",chitchat,coletado
+Aoba…,chitchat,coletado
+"Quero conversar, teria um tempinho?",chitchat,coletado
+Quero que faça uma lista dos melhores filmes de terror que esteja disponível em algum streaming,fora_dominio,coletado
+"Preciso que faça uma imagem, no estilo desenho animado, sem nada escrito, sobre o assunto do meu trabalho",fora_dominio,coletado
+Qual a previsão do tempo para os próximos 15 dias,fora_dominio,coletado
+"Não estou conseguindo logar nos computadores do lab, o que pode fazer para resolver esse problema",suporte,coletado
+"Meu sou UFMS não entra, como resolver",sistemas,coletado
+Estou com problemas no escaneamento de QR Code de presença,sistemas,coletado
+"Esqueci como logar, poderia me ajudar ?",autenticacao,coletado
+Qual o padrão de login e senha devo utilizar,wifi,coletado
+"Olá 
+Gostaria de ajuda em tal situação…",chitchat,coletado
+"Ei
+Me ajuda a resolver tal problema…",chitchat,coletado
+Mandaria um olá e aguardaria o retorno,chitchat,coletado
+Cardápio RU,fora_dominio,coletado
+Horas complementares,fora_dominio,coletado
+Disponibilidade da quadra de tênis,fora_dominio,coletado
+"Esqueci meu passaporte ufms,como posso redefinir ele?",senha,coletado
+Como faço para conectar na rede de Internet acadêmica?,wifi,coletado
+A universidade disponibiliza licença de softwares educacionais?,fora_dominio,coletado
+Como posso redefinir minha senha do e-mail educacional chat?,email,coletado
+"Chat,ocorreu tal erro(print do erro),como posso concertar para né conectar a Internet",wifi,coletado
+"Olá chat,poderia me ajudar?",chitchat,coletado
+"Bom dia(tarde/noite),preciso de ajuda com algo chat",chitchat,coletado
+"Olá chat,está disponível no momento?",chitchat,coletado
+Qual é o cardápio do Restaurante Universitário (RU) para o almoço de hoje?,fora_dominio,coletado
+Pode ajudar-me a organizar um plano de estudos semanal para preparar a entrega do meu projeto de computação?,fora_dominio,coletado
+Quais são os próximos eventos culturais ou torneios desportivos programados para decorrer no campus?,fora_dominio,coletado
+Como entro em contato com o suporte de TI da UFMS ?,suporte,coletado
+Pq o site da UFMS caiu ?,sistemas,coletado
+Como meus dados são tratados na UFMS ?,fora_dominio,coletado
+"Esqueci minha senha, como troco ela ?",senha,coletado
+Doq precisa pra logar na Eduroam mesmo ?,wifi,coletado
+"""Como eu faço tal coisa...""",chitchat,coletado
+"""Chat...""",chitchat,coletado
+"""oi chat, vc pode conversar cmg ?""",chitchat,coletado
+Monte meu cronograma de estudos pra IA dado esses slides.,fora_dominio,coletado
+"Oq significa a palavra ""blablabla"" em inglês ?",fora_dominio,coletado
+Pq foi criado o feriado do dia 20/11 ?,fora_dominio,coletado
+"Chatbot, o site para enviar tarefas está fora do ar, o que devo fazer?",ava,coletado
+"Chatbot, por que o sistema não carrega?",sistemas,coletado
+"Chatbot, até onde você pode me ajudar a resolver os problemas de TI?",suporte,coletado
+"Chatbot, você pode me ajudar a recuperar minha senha?",senha,coletado
+"Chatbot, não consigo me conectar ao serviço de wifi da ufms",wifi,coletado
+Oi,chitchat,coletado
+Eae,chitchat,coletado
+"Chatbot, você está aí?",chitchat,coletado
+"Chatbot, me passe as respostas dessa prova",fora_dominio,coletado
+"Chatbot, qual as aulas de hoje da turma de administração do 6º semestre?",fora_dominio,coletado
+"Chatbot, quais professores dão aula nessa instituição?",fora_dominio,coletado
+como que faz no caso de eu esquecer minha senha do computador do lab?,suporte,coletado
+quantos gb de armazenamento eu tenho disponivel no meu drive da ufms?,google_drive,coletado
+tem como eu usar uma vpn pra acessar a eduroam aqui de casa?,fora_dominio,coletado
+esqueci minha senha do email da uf e nao to conseguindo acessar minha conta? o que eu faço?,email,coletado
+to tendo erro ao acessar a eduroam do meu celular,wifi,coletado
+Começaria com a minha pergunta direto. Mas se tiver que escolher: oi,chitchat,coletado
+olá,chitchat,coletado
+ta disponivel pra conversar?,chitchat,coletado
+como eu posso acessar a academia da ufms?,fora_dominio,coletado
+tenho acesso a transporte público de graça? sendo estudante da ufms?,fora_dominio,coletado
+como posso encontrar oportunidades de estágio via ufms?,fora_dominio,coletado
+Como faço para acessar ao siscad?,sistemas,coletado
+Como faço para recuperar o meu acesso ao email institucional?,email,coletado
+Como faço para ter acesso aos meus certificados?,sistemas,coletado
+Como faço para recuperar a senha do meu email institucional?,email,coletado
+"Enviaria um print/imagem da mensagem de erro e perguntaria: Ao tentar acessar o wifi, apresenta a seguinte mensagem de erro. Como faço para solucionar esse problema?",wifi,coletado
+oi,chitchat,coletado
+bom dia/boa tarde/boa noite,chitchat,coletado
+oi,chitchat,coletado
+Reformula este email de modo formal,fora_dominio,coletado
+Qual a definição dessa palavra?,fora_dominio,coletado
+Qual o delineamento mais apropriado pra esse estudo?,fora_dominio,coletado
