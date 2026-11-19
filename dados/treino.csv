@@ -1,1 +1,133 @@
 texto,intencao,origem
+"Bom dia, preciso….",chitchat,coletado
+Aoba…,chitchat,coletado
+"Chatbot, você está aí?",chitchat,coletado
+"""Como eu faço tal coisa...""",chitchat,coletado
+Começaria com a minha pergunta direto. Mas se tiver que escolher: oi,chitchat,coletado
+Eae,chitchat,coletado
+pode me ajudar?,chitchat,coletado
+"Olá chat,poderia me ajudar?",chitchat,coletado
+bom dia/boa tarde/boa noite,chitchat,coletado
+"Ei
+Me ajuda a resolver tal problema…",chitchat,coletado
+"Bom dia(tarde/noite),preciso de ajuda com algo chat",chitchat,coletado
+"""oi chat, vc pode conversar cmg ?""",chitchat,coletado
+olá,chitchat,coletado
+"Olá 
+Gostaria de ajuda em tal situação…",chitchat,coletado
+Como faço para recuperar o meu acesso ao email institucional?,email,coletado
+Como posso redefinir minha senha do e-mail educacional chat?,email,coletado
+esqueci minha senha do email da uf e nao to conseguindo acessar minha conta? o que eu faço?,email,coletado
+Qual a previsão do tempo para os próximos 15 dias,fora_dominio,coletado
+Qual a definição dessa palavra?,fora_dominio,coletado
+Quero que faça uma lista dos melhores filmes de terror que esteja disponível em algum streaming,fora_dominio,coletado
+Monte meu cronograma de estudos pra IA dado esses slides.,fora_dominio,coletado
+qual melhor forma de entrar no mercaod de trabalho?,fora_dominio,coletado
+qual melhor serie pra maratonar?,fora_dominio,coletado
+como posso encontrar oportunidades de estágio via ufms?,fora_dominio,coletado
+"Oq significa a palavra ""blablabla"" em inglês ?",fora_dominio,coletado
+Reformula este email de modo formal,fora_dominio,coletado
+Pode ajudar-me a organizar um plano de estudos semanal para preparar a entrega do meu projeto de computação?,fora_dominio,coletado
+Quais são os próximos eventos culturais ou torneios desportivos programados para decorrer no campus?,fora_dominio,coletado
+Cardápio RU,fora_dominio,coletado
+Como meus dados são tratados na UFMS ?,fora_dominio,coletado
+como eu posso acessar a academia da ufms?,fora_dominio,coletado
+Qual o delineamento mais apropriado pra esse estudo?,fora_dominio,coletado
+"Chatbot, qual as aulas de hoje da turma de administração do 6º semestre?",fora_dominio,coletado
+tenho acesso a transporte público de graça? sendo estudante da ufms?,fora_dominio,coletado
+Disponibilidade da quadra de tênis,fora_dominio,coletado
+"Esqueci meu passaporte ufms,como posso redefinir ele?",senha,coletado
+"Esqueci minha senha, como troco ela ?",senha,coletado
+"Não lembro da minha senha de acesso, como posso proceder?",senha,coletado
+"Não consigo acessar os certificados dos eventos que participei, como consigo acessá-los/ encontrá-los?",sistemas,coletado
+"Meu sou UFMS não entra, como resolver",sistemas,coletado
+Pq o site da UFMS caiu ?,sistemas,coletado
+Estou com problemas no escaneamento de QR Code de presença,sistemas,coletado
+Como faço para acessar ao siscad?,sistemas,coletado
+"Chatbot, até onde você pode me ajudar a resolver os problemas de TI?",suporte,coletado
+como que faz no caso de eu esquecer minha senha do computador do lab?,suporte,coletado
+Como entro em contato com o suporte de TI da UFMS ?,suporte,coletado
+Qual o padrão de login e senha devo utilizar,wifi,coletado
+"Chat,ocorreu tal erro(print do erro),como posso concertar para né conectar a Internet",wifi,coletado
+Como faço para conectar na rede de Internet acadêmica?,wifi,coletado
+Por que o wifi não conecta?,wifi,coletado
+"Enviaria um print/imagem da mensagem de erro e perguntaria: Ao tentar acessar o wifi, apresenta a seguinte mensagem de erro. Como faço para solucionar esse problema?",wifi,coletado
+Doq precisa pra logar na Eduroam mesmo ?,wifi,coletado
+como faço para conectar o celular na eduroam?,wifi,llm
+minha internet eduroam fica caindo toda hora,wifi,llm
+qual o usuario e senha pra acessar o wifi da ufms?,wifi,llm
+estou com erro de certificado ao tentar conectar na rede eduroam,wifi,llm
+nao consigo conectar o notebook no wifi do campus,wifi,llm
+onde encontro o tutorial para configurar a eduroam no android?,wifi,llm
+não consigo visualizar minhas notas no siscad,sistemas,llm
+o aplicativo meu sou ufms está fora do ar hoje,sistemas,llm
+minhas disciplinas cursadas não aparecem no histórico do siscad,sistemas,llm
+onde baixo o comprovante de matricula no portal do aluno?,sistemas,llm
+ocorreu um erro de sistema ao tentar matricular nas materias,sistemas,llm
+como vejo meus certificados de eventos no sistema acadêmico?,sistemas,llm
+esqueci a senha do meu passaporte ufms como posso redefinir,senha,llm
+qual o passo a passo para alterar minha senha do sistema?,senha,llm
+nao recebi o email de redefinicao de senha da ufms,senha,llm
+minha conta foi bloqueada por tentar a senha errada varias vezes,senha,llm
+como cadastrar uma nova senha para o meu usuario?,senha,llm
+esqueci a senha de acesso ao portal do estudante,senha,llm
+o computador do laboratorio de informatica nao quer ligar,suporte,llm
+como faço para abrir um chamado tecnico de TI na universidade?,suporte,llm
+onde fica o setor de atendimento presencial de suporte de TI?,suporte,llm
+o teclado e o mouse do PC da biblioteca nao estao funcionando,suporte,llm
+preciso de ajuda tecnica para configurar o computador da sala,suporte,llm
+qual o horario de atendimento da equipe de suporte de TI?,suporte,llm
+como faço para criar meu email institucional da ufms?,email,llm
+nao estou conseguindo acessar a caixa de entrada do meu email acadêmico,email,llm
+como recuperar o acesso ao meu e-mail da universidade?,email,llm
+qual é a estrutura do endereço do email institucional do aluno?,email,llm
+posso redirecionar as mensagens do email da ufms para o meu gmail?,email,llm
+esqueci a senha do meu email institucional o que fazer?,email,llm
+qual e o formato padrao de login do primeiro acesso?,autenticacao,llm
+como funciona o sistema de autenticacao de dois fatores?,autenticacao,llm
+nao consigo fazer login no portal com meu CPF,autenticacao,llm
+qual o meu nome de usuario para logar nos servicos de TI?,autenticacao,llm
+como confirmar meu cadastro de autenticacao no primeiro dia?,autenticacao,llm
+mensagem de erro credenciais invalidas ao tentar logar,autenticacao,llm
+o moodle da ufms nao esta carregando a pagina de envios,ava,llm
+como enviar a tarefa do trabalho no ambiente virtual de aprendizagem?,ava,llm
+minha disciplina nao esta aparecendo na minha pagina do AVA,ava,llm
+o arquivo da atividade no AVA nao quer enviar da erro,ava,llm
+onde vejo os prazos das tarefas postadas no moodle?,ava,llm
+nao consigo acessar o material de aula no ambiente virtual,ava,llm
+quanto espaço de armazenamento ilimitado eu tenho no google drive ufms?,google_drive,llm
+como acessar o drive institucional com a minha conta da universidade?,google_drive,llm
+posso guardar meus arquivos de pesquisa no google drive da faculdade?,google_drive,llm
+qual a cota maxima de disco disponivel no drive acadêmico?,google_drive,llm
+como compartilhar uma pasta de trabalho no drive com o grupo?,google_drive,llm
+nao consigo fazer upload de arquivos no meu drive institucional,google_drive,llm
+"boa tarde, tudo bem com voce?",chitchat,llm
+"obrigado pela ajuda, me ajudou muito!",chitchat,llm
+voce e um robo de inteligencia artificial?,chitchat,llm
+tenha um ótimo dia de trabalho!,chitchat,llm
+valeu demais pela informacao,chitchat,llm
+"ola, gostaria de tirar uma duvida rapida",chitchat,llm
+"boa noite, pode me dar uma ajuda por favor?",chitchat,llm
+"tchau, ate logo!",chitchat,llm
+quem criou voce?,chitchat,llm
+"muito obrigado, atendeu super bem",chitchat,llm
+qual o cardápio do restaurante universitário hoje?,fora_dominio,llm
+que horas abre a biblioteca central para estudo?,fora_dominio,llm
+como faço para renovar o empréstimo do meu livro de cálculo?,fora_dominio,llm
+como solicitar a carteira de estudante para o passe de ônibus?,fora_dominio,llm
+quando sai o resultado do edital do auxílio permanência?,fora_dominio,llm
+como faço para me inscrever na seleção de bolsa de monitoria?,fora_dominio,llm
+qual o valor da refeição no RU para alunos cadastrados?,fora_dominio,llm
+como faço para trancar a matricula do meu curso no semestre?,fora_dominio,llm
+onde vejo o calendario de provas e feriados da faculdade?,fora_dominio,llm
+como emitir a declaracao de matricula assinada na secretaria?,fora_dominio,llm
+qual a carga horaria necessaria de atividades complementares?,fora_dominio,llm
+como me inscrever para os jogos universitarios da intermed?,fora_dominio,llm
+onde posso fazer reserva da quadra de esportes do campus?,fora_dominio,llm
+qual o procedimento para validar horas de estagio supervisionado?,fora_dominio,llm
+como dar entrada no processo de colacao de grau?,fora_dominio,llm
+quais documentos sao necessarios para transferencia de curso?,fora_dominio,llm
+onde fica a cantina do bloco 2?,fora_dominio,llm
+qual a previsao do tempo para este fim de semana?,fora_dominio,llm
+me recomende um bom filme de comedia para assistir,fora_dominio,llm
+quem ganhou o jogo de futebol ontem a noite?,fora_dominio,llm

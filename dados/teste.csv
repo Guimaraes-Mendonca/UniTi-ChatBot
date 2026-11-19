@@ -1,1 +1,34 @@
 texto,intencao,origem
+"Esqueci como logar, poderia me ajudar ?",autenticacao,coletado
+"Chatbot, o site para enviar tarefas está fora do ar, o que devo fazer?",ava,coletado
+chat,chitchat,coletado
+"""Chat...""",chitchat,coletado
+Mandaria um olá e aguardaria o retorno,chitchat,coletado
+oi,chitchat,coletado
+Oi,chitchat,coletado
+"Quero conversar, teria um tempinho?",chitchat,coletado
+ta disponivel pra conversar?,chitchat,coletado
+"Olá chat,está disponível no momento?",chitchat,coletado
+Como faço para recuperar a senha do meu email institucional?,email,coletado
+"Chatbot, quais professores dão aula nessa instituição?",fora_dominio,coletado
+"Preciso que faça uma imagem, no estilo desenho animado, sem nada escrito, sobre o assunto do meu trabalho",fora_dominio,coletado
+Qual é o cardápio do Restaurante Universitário (RU) para o almoço de hoje?,fora_dominio,coletado
+oq eu faço se meu pc nao ta ligando?,fora_dominio,coletado
+Pq foi criado o feriado do dia 20/11 ?,fora_dominio,coletado
+Horas complementares,fora_dominio,coletado
+"Não consigo ver a localização do ônibus da UFMS, ele não atualiza, poderia informar onde ele está?",fora_dominio,coletado
+tem como eu usar uma vpn pra acessar a eduroam aqui de casa?,fora_dominio,coletado
+A universidade disponibiliza licença de softwares educacionais?,fora_dominio,coletado
+como joga xadrez?,fora_dominio,coletado
+como faço pra otimizar meu computador?,fora_dominio,coletado
+"Chatbot, me passe as respostas dessa prova",fora_dominio,coletado
+quantos gb de armazenamento eu tenho disponivel no meu drive da ufms?,google_drive,coletado
+"esqueci minha senha, oq eu faço??",senha,coletado
+"Chatbot, você pode me ajudar a recuperar minha senha?",senha,coletado
+"Chatbot, por que o sistema não carrega?",sistemas,coletado
+Como faço para ter acesso aos meus certificados?,sistemas,coletado
+Por que a matrícula e as matérias já cursadas não estão aparecendo nem no app nem no site da ufms,sistemas,coletado
+"Não estou conseguindo logar nos computadores do lab, o que pode fazer para resolver esse problema",suporte,coletado
+pq o wifi ta caindo?,wifi,coletado
+to tendo erro ao acessar a eduroam do meu celular,wifi,coletado
+"Chatbot, não consigo me conectar ao serviço de wifi da ufms",wifi,coletado

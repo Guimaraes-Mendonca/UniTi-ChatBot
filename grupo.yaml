@@ -102,24 +102,12 @@ intencoes:
       institucionais, incluindo acesso por VPN. Para obter atendimento,
       consulte os canais oficiais de suporte da AGETIC/UFMS.
 
-  videoconferencia:
-    descricao: "Ajuda com utilização de ferramentas de conferência pela Web."
-    resposta: >
-      Posso ajudar com dúvidas sobre conferências pela Web.
-      Consulte o Manual de Conferência Web disponível na base de documentos.
-
   google_drive:
     descricao: "Ajuda com transferência de arquivos e utilização de drives compartilhados do Google Workspace."
     resposta: >
       Posso ajudar com dúvidas sobre transferência de arquivos e drives
       compartilhados. Consulte os tutoriais do Google Workspace disponíveis
       na base de documentos.
-
-  sei:
-    descricao: "Ajuda com procedimentos e utilização do Sistema Eletrônico de Informações."
-    resposta: >
-      Posso ajudar com dúvidas sobre o SEI. Consulte o procedimento geral
-      do Sistema Eletrônico de Informações disponível na base de documentos.
 
   autenticacao:
     descricao: "Ajuda com configuração e utilização da autenticação de dois fatores do Gmail."
