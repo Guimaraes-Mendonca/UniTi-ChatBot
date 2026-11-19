@@ -2,10 +2,8 @@ texto,intencao,origem
 "Esqueci como logar, poderia me ajudar ?",autenticacao,coletado
 "Chatbot, o site para enviar tarefas está fora do ar, o que devo fazer?",ava,coletado
 chat,chitchat,coletado
-"""Chat...""",chitchat,coletado
 Mandaria um olá e aguardaria o retorno,chitchat,coletado
 oi,chitchat,coletado
-Oi,chitchat,coletado
 "Quero conversar, teria um tempinho?",chitchat,coletado
 ta disponivel pra conversar?,chitchat,coletado
 "Olá chat,está disponível no momento?",chitchat,coletado
@@ -32,3 +30,114 @@ Por que a matrícula e as matérias já cursadas não estão aparecendo nem no a
 pq o wifi ta caindo?,wifi,coletado
 to tendo erro ao acessar a eduroam do meu celular,wifi,coletado
 "Chatbot, não consigo me conectar ao serviço de wifi da ufms",wifi,coletado
+"meu computador do lab nao liga, quem eu chamo?",suporte,coletado
+Boa tarde! Estou com dificuldade para acessar o SISCAD: aparece uma mensagem dizendo que meu usuário não existe. O que devo fazer?,sistemas,coletado
+Como acesso o moodle da UFMS?,ava,coletado
+Como peço um IP fixo pra um servidor do meu laboratório?,suporte,coletado
+"Assistente, não consigo entrar no ambiente virtual de aprendizagem",ava,coletado
+o wifi da ufms nunca funciona kkk o que eu faço,wifi,coletado
+"Preciso renovar minha matrícula, mas o sistema não está permitindo. O que faço?",sistemas,coletado
+wifi caiu,wifi,coletado
+"meu email da ufms ta dizendo que a caixa ta cheia, como eu aumento o espaço?",email,coletado
+"Bom dia! Meu login do Passaporte UFMS não está funcionando, o que posso fazer?",autenticacao,coletado
+Por que o siscad nunca funciona na hora da matrícula??,sistemas,coletado
+"Olha, o problema é o seguinte: toda vez que eu tento entrar no sistema pra ver meu horário ele me manda de volta pra tela de login. Será que é problema na minha conta?",sistemas,coletado
+como faço para acessar o e-mail da ufms pelo celular,email,coletado
+Como funciona a TI da UFMS?,fora_dominio,coletado
+"Chat, meu computador do laboratório travou e eu perdi meu trabalho, tem como recuperar?",suporte,coletado
+Faço parte de um projeto da faculdade que desenvolveu um site. Tem como a UFMS hospedar ele para mim?,fora_dominio,coletado
+"Não consigo acessar minha conta do passaporte UFMS, aparece usuário inválido",autenticacao,coletado
+o siscad nao abre no celular,sistemas,coletado
+Como posso solicitar a instalação de um programa em um computador do laboratório de informática?,suporte,coletado
+Minhas notas não aparecem no sistema,sistemas,coletado
+A AGETIC oferece hospedagem pra projetos de alunos?,fora_dominio,coletado
+"O aplicativo da UFMS não abre, fica só carregando",sistemas,coletado
+como vejo minha frequência nas matérias?,sistemas,coletado
+Onde consigo meu comprovante de vínculo com a universidade?,sistemas,coletado
+"o moodle ta fora do ar de novo, tem previsão de voltar?",ava,coletado
+Como faço pra acessar no AVA os materiais de uma disciplina que já terminei?,ava,coletado
+"Já abri chamado e ninguém respondeu, como eu falo com alguém da TI de verdade?",suporte,coletado
+como que eu faço pra pegar a declaração de matrícula? preciso pro estágio,sistemas,coletado
+tem algum curso de excel gratuito pra alunos?,fora_dominio,coletado
+Como é gerenciado os backups da AGETIC na UFMS?,fora_dominio,coletado
+Como faço pra mudar minha foto de perfil no sistema da UFMS?,sistemas,coletado
+Preciso resuperar minha senha pra entrar no siscad,senha,coletado
+Como faço para pedir ajuda com um computador que não liga na sala de aula?,suporte,coletado
+como pego meu historico escolar online,sistemas,coletado
+Existe algum canal oficial para abrir chamados de suporte de TI na UFMS?,suporte,coletado
+Como faço pra usar as impressoras do laboratório?,suporte,coletado
+Tem como configurar a VPN da UFMS no Linux?,suporte,coletado
+a senha do computador do lab não funciona,suporte,coletado
+Como solicito suporte técnico para o projetor de uma sala de aula?,suporte,coletado
+Como faço pra baixar o office de graça com o email institucional?,fora_dominio,coletado
+"Estou sem acesso ao Google Drive institucional, aparece que a conta foi suspensa. O que pode ser?",google_drive,coletado
+"A rede wifi da biblioteca cai toda hora, tem como resolver isso?",wifi,coletado
+Dá pra acessar o drive da UFMS pelo celular? Não consigo achar o aplicativo,google_drive,coletado
+Como a TI da UFMS lida com ataques cibernéticos?,fora_dominio,coletado
+A UFMS tem wifi para visitantes?,wifi,coletado
+Preciso saber qual tecnologia a AGETIC usa. Quero me candidatar para uma vaga lá,fora_dominio,coletado
+"Olá, boa tarde!",chitchat,coletado
+Boa tarde,chitchat,coletado
+"Oi, tenho uma dúvida",chitchat,coletado
+"Olá, assistente",chitchat,coletado
+oie,chitchat,coletado
+"Boa noite
+Preciso de ajuda com…",chitchat,coletado
+Oii,chitchat,coletado
+"Boa noite, preciso de uma ajuda",chitchat,coletado
+"""Olá, queria saber...""",chitchat,coletado
+opa,chitchat,coletado
+"Oi, tudo bem?",chitchat,coletado
+"Oi, assistente virtual",chitchat,coletado
+fala chat,chitchat,coletado
+"Olá, gostaria de tirar uma dúvida.",chitchat,coletado
+bom dia,chitchat,coletado
+"bom dia, tudo bem?",chitchat,coletado
+"Opa, bom dia",chitchat,coletado
+ei,chitchat,coletado
+"oi, preciso de uma informação",chitchat,coletado
+"""Oi, preciso...""",chitchat,coletado
+Eai,chitchat,coletado
+"Salve, chat",chitchat,coletado
+ta online?,chitchat,coletado
+Você está disponível neste momento?,chitchat,coletado
+quem ta em primeiro no brasileirao,fora_dominio,coletado
+Poderia me sugerir um plano de treino para iniciantes?,fora_dominio,coletado
+Quando é o próximo feriado?,fora_dominio,coletado
+Como faço um rebase interativo no git?,fora_dominio,coletado
+"Assistente, me recomenda um podcast",fora_dominio,coletado
+me conta uma piada,fora_dominio,coletado
+Qual a previsão do tempo para amanhã?,fora_dominio,coletado
+me indica uma música pra ouvir enquanto estudo,fora_dominio,coletado
+Qual a melhor forma de acordar cedo?,fora_dominio,coletado
+Como trancar uma disciplina sem perder a bolsa?,fora_dominio,coletado
+como faço pra dormir mais cedo? tô com insônia,fora_dominio,coletado
+qual a melhor forma de estudar pra prova,fora_dominio,coletado
+Qual o cadárpio do RU hoje?,fora_dominio,coletado
+Me recomenda um jogo pra jogar com os amigos,fora_dominio,coletado
+Onde tá o businho??,fora_dominio,coletado
+Preciso de ideias de presente de aniversário,fora_dominio,coletado
+me da uma receita facil de bolo,fora_dominio,coletado
+Qual a melhor maneira de aprender inglês sozinho?,fora_dominio,coletado
+Qual o cardápio do RU de amanhã?,fora_dominio,coletado
+Me explica a diferença entre TCP e UDP,fora_dominio,coletado
+esqueci a senha do email da ufms como recupero,senha,coletado
+"Olá, esqueci a senha do meu e-mail institucional e não consigo acessá-lo. Como posso recuperar o acesso?",senha,coletado
+Como recupero a senha do email da UFMS,senha,coletado
+"Esqueci a senha do e-mail institucional, qual o procedimento pra recuperar?",senha,coletado
+"Assistente, esqueci a senha do meu e-mail institucional, como recupero?",senha,coletado
+"esqueci a senha do email, me ajuda aí",senha,coletado
+"Esqueci a senha do meu e-mail institucional e preciso de acesso urgente, como faço pra redefinir?",senha,coletado
+recuperar senha email,senha,coletado
+"esqueci a senha do email da ufms, como eu recupero?",senha,coletado
+Esqueci a senha do e-mail da UFMS. Como faço para recuperar?,senha,coletado
+"esqueci minha senha do email institucional e o link de recuperação não chega, o que eu faço?",senha,coletado
+"esqueci a senha do meu e-mail da ufms faz tempo e agora preciso acessar pra pegar um documento, como eu recupero?",senha,coletado
+"nao consigo entrar na eduroam, da erro",wifi,coletado
+"Boa noite, estou tentando conectar meu celular à rede Eduroam, mas aparece uma mensagem de erro. Poderia me ajudar?",wifi,coletado
+"Aparece ""não foi possível conectar"" no wifi da UFMS",wifi,coletado
+"Meu celular conecta na eduroam mas fica sem internet, já esqueci a rede e conectei de novo e nada",wifi,coletado
+"Assistente, meu celular mostra erro ao conectar na Eduroam, o que faço?",wifi,coletado
+"a eduroam não conecta no meu celular, aparece erro de certificado",wifi,coletado
+Estou com erro de autenticação ao conectar o celular na Eduroam. Já inseri meu login e senha corretos.,wifi,coletado
+eduroam erro,wifi,coletado

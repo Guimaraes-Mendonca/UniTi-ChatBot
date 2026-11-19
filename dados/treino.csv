@@ -131,3 +131,378 @@ onde fica a cantina do bloco 2?,fora_dominio,llm
 qual a previsao do tempo para este fim de semana?,fora_dominio,llm
 me recomende um bom filme de comedia para assistir,fora_dominio,llm
 quem ganhou o jogo de futebol ontem a noite?,fora_dominio,llm
+Como emito meu atestado de matrícula pelo sistema?,sistemas,coletado
+siscad fora do ar?,sistemas,coletado
+o site das notas está fora do ar,sistemas,coletado
+Onde encontro o manual do usuário do sistema acadêmico?,sistemas,coletado
+Tá funcionando?,chitchat,coletado
+Você tá disponível agora?,chitchat,coletado
+"Assistente, você está disponível?",chitchat,coletado
+chat tá on?,chitchat,coletado
+Você está disponível agora?,chitchat,coletado
+ta ai?,chitchat,coletado
+tem alguém aí?,chitchat,coletado
+"Bom dia, tem alguém disponível para me ajudar?",chitchat,coletado
+alguém responde aqui?,chitchat,coletado
+Você consegue conversar agora ou está ocupado?,chitchat,coletado
+"""olá, está disponível?""",chitchat,coletado
+"Olá, consegue me ajudar nesse horário?",chitchat,coletado
+"Chat, tá aí?",chitchat,coletado
+Me sugere um cardápio saudável pra semana,fora_dominio,coletado
+qual a capital da Austrália?,fora_dominio,coletado
+Me ajuda a escrever o resumo do meu artigo?,fora_dominio,coletado
+horário ônibus,fora_dominio,coletado
+como converto um pdf pra word?,fora_dominio,coletado
+Me sugira um café da manhã rápido,fora_dominio,coletado
+Qual o valor da passagem de ônibus hoje?,fora_dominio,coletado
+me indica uns filmes bons de ficção científica,fora_dominio,coletado
+me ajuda a montar uma lista de compras,fora_dominio,coletado
+Qual horário fecha o bloco da FACOM?,fora_dominio,coletado
+Faz uma imagem de um gato astronauta pra mim,fora_dominio,coletado
+Qual o almoço do RU??,fora_dominio,coletado
+Como fazer uma planilha de gastos mensais?,fora_dominio,coletado
+como ganhar dinheiro sendo estudante,fora_dominio,coletado
+Pode me indicar livros sobre produtividade?,fora_dominio,coletado
+Como tirar segunda via do CPF?,fora_dominio,coletado
+Qual linguagem de programação aprender primeiro?,fora_dominio,coletado
+Resume pra mim esse texto,fora_dominio,coletado
+como faço um miojo melhorado,fora_dominio,coletado
+Quais os melhores filmes lançados esse ano?,fora_dominio,coletado
+feriado,fora_dominio,coletado
+me explica o que é derivada de um jeito fácil,fora_dominio,coletado
+Como organizar minha rotina de estudos e trabalho?,fora_dominio,coletado
+Me indica um bom restaurante barato perto da faculdade,fora_dominio,coletado
+Quais são as melhores formas de investir 100 reais por mês?,fora_dominio,coletado
+como funciona imposto de renda pra estudante,fora_dominio,coletado
+Como eu alugo livros na biblioteca?,fora_dominio,coletado
+Como faço pra parar de procrastinar?,fora_dominio,coletado
+Quando acaba as aulas?,fora_dominio,coletado
+Qual o horário de funcionamento da biblioteca?,fora_dominio,coletado
+esqueci a senha do email institucional como faço para recuperar,senha,coletado
+"Esqueci minha senha do meu e-mail institucional, como altero?",senha,coletado
+"Chat, esqueci a senha do meu email da UFMS de novo... o que eu faço?",senha,coletado
+"Preciso recuperar a senha do email institucional, eu esqueci",senha,coletado
+"Meu celular não conecta na eduroam, aparece falha de autenticação",wifi,coletado
+"O celular não conecta na Eduroam, aparece 'falha na autenticação'. O que fazer?",wifi,coletado
+"a eduroam não conecta no meu celular de jeito nenhum, já tentei de tudo",wifi,coletado
+"Meu celular não está conseguindo se conectar na eduroam, aparece uma mensagem de erro e eu não sei o que fazer, pode me ajudar a resolver?",wifi,coletado
+não consigo conectar na eduroam fica pedindo a senha toda hora,wifi,coletado
+"Está com erro ao acessar o wifi eduoram, como eu soluciono?",wifi,coletado
+"Chat, a Eduroam do meu celular tá dando um erro esquisito, como resolvo?",wifi,coletado
+"O eduroam não está funcionando, e agora??",wifi,coletado
+Troquei de aparelho e gostaria de saber como configurar novamente a Eduroam no meu novo dispositivo.,wifi,llm
+Wi-Fi institucional eduroam,wifi,llm
+alguem sabe como instalar o eduroam no iphone,wifi,llm
+Você poderia explicar como selecionar a rede Eduroam e concluir o primeiro acesso no campus?,wifi,llm
+tem como usar a eduroam no tablet da faculdade,wifi,llm
+Quais são as etapas para configurar a conexão Eduroam no meu MacBook?,wifi,llm
+qual o tipo de segurança que uso pra conectar no eduroam,wifi,llm
+Estou no campus e a Eduroam pede uma configuração que não conheço. Podem me orientar rapidinho?,wifi,llm
+Apaguei a rede Eduroam das configurações do meu celular e agora não consigo adicioná-la de novo. Preciso reconectar antes da próxima aula!,wifi,llm
+meu iphone nao conecta na eduroam mesmo depois de colocar meus dados,wifi,llm
+"A conexão da Eduroam cai toda hora no meu tablet, bem durante a aula. Há alguma configuração para manter o acesso estável?",wifi,llm
+Você pode me informar se preciso realizar alguma configuração específica para usar o Eduroam em um celular Android?,wifi,llm
+A conexão à Eduroam cai com frequência no meu notebook; o que posso verificar nas configurações da rede?,wifi,llm
+A rede Eduroam não aparece na lista de Wi-Fi do meu tablet; como posso localizá-la?,wifi,llm
+"Tenho uma prova em breve e meu notebook não autentica na Eduroam, mesmo com os dados preenchidos. O que pode estar faltando na configuração?",wifi,llm
+"Preciso assistir à aula agora, mas meu notebook fica pedindo certificado quando tento entrar na Eduroam. Qual opção devo escolher?",wifi,llm
+"Preciso conectar meu celular à Eduroam antes da apresentação, mas ele fica voltando para a tela de login. O que devo fazer?",wifi,llm
+Poderia me informar quais dados devo usar para entrar na rede Wi-Fi Eduroam do campus?,wifi,llm
+Estou tentando usar a Eduroam pela primeira vez e não sei o que preencher nos campos de identidade e domínio. Podem me orientar?,wifi,llm
+"Por gentileza, quais configurações devo usar para acessar a Eduroam no meu notebook?",wifi,llm
+Configurar Wi-Fi eduroam,wifi,llm
+Dá pra usar a Eduroam em qualquer unidade da UFMS?,wifi,llm
+Consigo conectar mais de um aparelho na Eduroam?,wifi,llm
+Como conecto meu computador com Windows à Eduroam usando as configurações recomendadas pela universidade?,wifi,llm
+Poderia me ajudar a entender como conectar meu notebook à rede Eduroam usando o sistema Linux?,wifi,llm
+Como faço para instalar o perfil da rede Eduroam no meu computador?,wifi,llm
+"A rede Eduroam aparece no meu notebook, mas a conexão falha sempre que tento entrar. Preciso resolver isso antes da aula.",wifi,llm
+"A Eduroam pede para aceitar um certificado no meu computador, mas não sei se é seguro confirmar. O que devo verificar antes?",wifi,llm
+Como conecto meu celular à Eduroam pela primeira vez? Estou na universidade agora e preciso acessar a rede com urgência.,wifi,llm
+"A rede Eduroam aparece no meu computador, mas não sei qual opção de segurança selecionar. Podem me ajudar?",wifi,llm
+Ativar conta de e-mail,email,llm
+Como configuro a assinatura com meu nome no e-mail da faculdade?,email,llm
+Estou tentando adicionar o e-mail institucional no meu celular e ele pede informações de servidor. Quais dados devo preencher?,email,llm
+Poderia explicar como configurar o envio e o recebimento de mensagens institucionais no Thunderbird?,email,llm
+Onde vejo as configurações IMAP e SMTP do e-mail institucional?,email,llm
+"Consigo entrar no e-mail pelo navegador, mas não consigo enviar mensagens pelo programa instalado no computador. O que devo revisar na configuração?",email,llm
+Configuração do Outlook universitário,email,llm
+Entrar no correio institucional,email,llm
+Meu e-mail institucional parou de atualizar no notebook e tenho uma mensagem importante para ler. Como posso verificar a configuração da conta?,email,llm
+alguem me ajuda a configurar o email institucional no iphone,email,llm
+Troquei de celular e quero adicionar meu e-mail da universidade no novo aparelho. Qual é o procedimento correto?,email,llm
+É possível encaminhar automaticamente as mensagens recebidas no e-mail institucional para outro endereço?,email,llm
+"Por gentileza, onde posso consultar qual é o endereço de e-mail institucional vinculado à minha matrícula?",email,llm
+Poderia me orientar sobre como adicionar minha conta institucional ao Outlook no computador?,email,llm
+Dá pra usar o e-mail institucional no aplicativo do Gmail?,email,llm
+o email institucional parou de sincronizar no meu celular tem como resolver,email,llm
+"O e-mail institucional não está recebendo mensagens, como arrumo?",email,llm
+Tenho aula daqui a pouco e meu e-mail institucional não aparece configurado no celular. Como adiciono a conta?,email,llm
+"Preciso acessar o e-mail institucional pela primeira vez, mas não sei onde fazer o login. Podem me orientar?",email,llm
+"Estou com pressa para responder um aviso da coordenação, mas não sei como acessar a caixa postal institucional fora do campus. Onde entro?",email,llm
+como descubro qual servidor usar pra configurar o email da universidade no computador,email,llm
+as mensagens do email da faculdade nao estao sincronizando no meu computador,email,llm
+Como posso alterar o nome que aparece como remetente nas mensagens do meu e-mail institucional?,email,llm
+"Estou tentando abrir minha conta institucional no navegador, mas a página não reconhece meu endereço de e-mail. Como faço para acessar?",email,llm
+Onde vejo as mensagens que chegam no meu e-mail acadêmico?,email,llm
+"Como posso consultar o espaço disponível na minha caixa de e-mail acadêmica, por favor?",email,llm
+Não consigo acessar meu e-mail institucional e preciso conferir uma mensagem da faculdade agora. Qual endereço devo usar para entrar?,email,llm
+Minha caixa de entrada institucional não carrega as mensagens e tenho uma atividade para entregar em breve. Como posso acessar meu e-mail?,email,llm
+"É possível configurar as notificações de novas mensagens do e-mail institucional no celular, e como faço isso?",email,llm
+"Quero usar meu e-mail institucional em um programa de e-mail no computador, mas não sei quais opções de entrada e saída escolher.",email,llm
+Consigo adicionar minha conta acadêmica no app de e-mail do iPhone?,email,llm
+"Configurei meu e-mail universitário no aplicativo, mas as mensagens não carregam. Há algum ajuste específico para receber os e-mails?",email,llm
+Não estou recebendo os e-mails enviados para minha conta da universidade. Como verifico se está tudo configurado corretamente?,email,llm
+como faço pra adicionar meu email da facul no outlook ta dando erro,email,llm
+Não consigo localizar o endereço certo para entrar no correio eletrônico da universidade. Podem me passar as instruções de acesso?,email,llm
+queria colocar uma assinatura automatica no meu email institucional,email,llm
+Meu endereço institucional não aparece como válido ao tentar adicioná-lo ao aplicativo de e-mail; o que devo verificar?,email,llm
+Poderia me informar qual é o formato do endereço de e-mail institucional dos estudantes?,email,llm
+to tentando acessar meu email acadêmico e fica carregando sem abrir,email,llm
+Poderia explicar como escolher o endereço institucional como remetente padrão no meu aplicativo de e-mail?,email,llm
+configurei o email da uni no outlook mas nao consigo enviar mensagem,email,llm
+Dá pra mudar a senha do Passaporte pelo celular?,senha,llm
+Atualizar senha do Passaporte,senha,llm
+quero trocar a senha do passaporte ufms mas nao achei essa opção,senha,llm
+Gostaria de saber como alterar a senha do Passaporte UFMS enquanto ainda consigo entrar na conta.,senha,llm
+"Estou tentando entrar no Passaporte UFMS, mas não lembro a senha. Podem me orientar para criar outra?",senha,llm
+Perdi a senha que usava no Passaporte UFMS e não sei por onde começar a recuperação. Podem me passar as instruções?,senha,llm
+Poderiam informar se é possível recuperar a senha do Passaporte UFMS usando meu CPF?,senha,llm
+Há algum requisito específico para definir uma nova senha ao recuperar o Passaporte UFMS?,senha,llm
+Acho que esqueci a senha atual do Passaporte UFMS e preciso criar outra ainda hoje. O que devo fazer?,senha,llm
+"Preciso trocar a senha do meu Passaporte UFMS, mas não encontrei onde fazer isso. Conseguem me ajudar?",senha,llm
+Onde peço uma nova senha do Passaporte UFMS?,senha,llm
+Esqueci minha senha do Passaporte UFMS; poderiam explicar quais etapas devo seguir para recuperá-la?,senha,llm
+o passaporte ufms diz que a senha ta incorreta como posso recuperar elu,senha,llm
+minha senha do passaporte ufms parou de funcionar como posso criar outra,senha,llm
+"Pedi pra recuperar a senha, mas não recebi o código. O que faço?",senha,llm
+Minha senha do Passaporte UFMS expirou; como posso cadastrá-la novamente?,senha,llm
+Troca de senha Passaporte,senha,llm
+É possível alterar a senha do Passaporte UFMS mesmo sem ter esquecido a senha atual?,senha,llm
+Troquei de senha recentemente e não consigo lembrar qual ficou. Como faço para recuperar a senha do Passaporte UFMS?,senha,llm
+tem como recuperar meu acesso ao passaporte ufms sem saber a senha,senha,llm
+A recuperação de senha do Passaporte UFMS não está dando certo para mim. O que devo fazer para criar uma senha nova?,senha,llm
+"Preciso alterar a senha do Passaporte UFMS com urgência, mas não sei por onde começar. Onde faço essa mudança?",senha,llm
+Não consigo alterar minha senha do Passaporte UFMS e preciso resolver isso antes do fim do dia. O que devo fazer?,senha,llm
+"Minha senha venceu, como altero ela?",senha,llm
+nao consigo entrar no passaporte ufms pq minha senha nao funciona,senha,llm
+"Troquei de celular e não lembro a senha do Passaporte UFMS. Preciso recuperar a conta com urgência, podem ajudar?",senha,llm
+onde recupero o acesso ao passaporte ufms se perdi minha senha,senha,llm
+errei a senha varias vezes e bloqueou meu passaporte ufms como resolvo,senha,llm
+Recuperação de senha UFMS,senha,llm
+"Estou tentando redefinir a senha do Passaporte UFMS, mas não sei quais dados preciso informar. Podem me explicar?",senha,llm
+Criar nova senha do Passaporte,senha,llm
+tentei mudar minha senha mas deu erro oq eu faço,senha,llm
+Poderiam informar como cadastrar uma nova senha do Passaporte UFMS após receber as instruções de recuperação?,senha,llm
+Minha senha do Passaporte UFMS expirou e não consigo entrar. Como atualizo para uma nova?,senha,llm
+Não consigo acessar meu Passaporte UFMS porque a senha aparece como incorreta. Tem como me orientar na recuperação?,senha,llm
+Como devo proceder se não consigo alterar a senha do Passaporte UFMS?,senha,llm
+Como posso recuperar a senha do meu Passaporte UFMS se não me lembro dela?,senha,llm
+"Link do AVA, por favor",ava,llm
+Gostaria de saber se o acesso ao AVA é liberado automaticamente após a matrícula ou se preciso realizar algum procedimento.,ava,llm
+Não estou conseguindo entrar no AVA com meus dados de estudante; poderiam indicar os passos para verificar meu acesso?,ava,llm
+o ava diz que meu acesso não foi autorizado,ava,llm
+"Por gentileza, há alguma orientação para acessar o AVA pelo celular e acompanhar as aulas e os conteúdos?",ava,llm
+"Minha turma já recebeu atividades no AVA, mas não consigo visualizar nenhuma delas. Podem me ajudar a encontrar o conteúdo?",ava,llm
+Poderiam me informar como consultar as notas e os comentários dos professores nas atividades do AVA?,ava,llm
+"O AVA informa que meu usuário não está matriculado no curso, mas já estou cursando essa disciplina. Como posso resolver isso rapidamente?",ava,llm
+O link do AVA tá dando página indisponível pra vc também?,ava,llm
+"O AVA fica pedindo pra eu entrar de novo toda hora, pq será?",ava,llm
+"O AVA tá mostrando uma turma antiga, como acesso as disciplinas deste semestre?",ava,llm
+"Meu vínculo com a disciplina já foi confirmado, mas ainda não tenho acesso à sala virtual. A quem devo solicitar ajuda?",ava,llm
+Alguém sabe como entrar na sala da minha matéria pelo AVA?,ava,llm
+"Estou fora de casa e preciso entrar no Ambiente Virtual pelo navegador do celular, mas a tela não carrega direito. Há outra forma de acessar?",ava,llm
+"Preciso acompanhar uma aula agora, mas meu acesso ao AVA não está funcionando como deveria. Estou com medo de perder a presença.",ava,llm
+Consigo abrir o AVA no celular ou só pelo computador?,ava,llm
+O link do Ambiente Virtual de Aprendizagem não abre para mim desde cedo. Tenho prova marcada para hoje e estou ficando preocupado.,ava,llm
+as atividades da disciplina sumiram do meu ava,ava,llm
+O endereço do AVA que recebi não está carregando e preciso consultar uma tarefa que vence hoje. Existe outro caminho para acessar?,ava,llm
+"Estou tentando acessar a sala virtual da disciplina pelo AVA, mas aparece uma mensagem de que não tenho permissão. A aula começa em poucos minutos!",ava,llm
+Onde encontro as gravações e os conteúdos das aulas na plataforma de aprendizagem virtual?,ava,llm
+"Olá, poderiam me orientar sobre como acessar o Ambiente Virtual de Aprendizagem da universidade pela primeira vez?",ava,llm
+tô tentando entrar no ava mas dá erro,ava,llm
+Estou tentando acessar o curso pelo AVA e a página volta para a tela inicial sem mostrar as disciplinas. Preciso entregar um trabalho hoje.,ava,llm
+"Não consigo visualizar uma disciplina no AVA, embora ela já tenha começado. O que devo fazer?",ava,llm
+consigo entrar no portal mas o ava não abre,ava,llm
+Não consigo localizar o curso deste semestre no AVA e preciso baixar o conteúdo para estudar ainda hoje. O que devo verificar?,ava,llm
+Poderiam confirmar se o Ambiente Virtual de Aprendizagem está disponível para estudantes de cursos de graduação?,ava,llm
+Como posso acompanhar os avisos publicados pelos professores no Ambiente Virtual de Aprendizagem?,ava,llm
+"Fui acessar o Ambiente Virtual de Aprendizagem pelo celular, mas não encontro minha turma nem as aulas. Qual opção devo selecionar?",ava,llm
+o link do ambiente virtual tá fora do ar,ava,llm
+"Por gentileza, qual é o endereço correto para entrar no AVA e visualizar minhas disciplinas?",ava,llm
+"Fiz matrícula na disciplina, mas ela ainda não aparece no AVA.",ava,llm
+Poderiam me explicar como acessar as atividades e os questionários disponibilizados no Ambiente Virtual de Aprendizagem?,ava,llm
+Gostaria de saber onde encontro as atividades e os prazos de entrega no AVA. Poderiam me ajudar?,ava,llm
+"Não estou conseguindo acessar a aula gravada pelo AVA, pode me ajudar?",ava,llm
+"As notas das atividades não estão aparecendo no AVA, é normal?",ava,llm
+"Consegui abrir o Ambiente Virtual, mas não consigo acessar a sala da minha turma. A atividade fecha em poucas horas!",ava,llm
+"Meu curso sumiu do Ambiente Virtual, como faço pra acessar?",ava,llm
+Como acesso as disciplinas do meu curso no AVA depois de entrar na plataforma?,ava,llm
+Como faço para localizar os materiais de estudo da minha turma no Ambiente Virtual de Aprendizagem?,ava,llm
+Como vejo as atividades da semana no ambiente virtual?,ava,llm
+"O link da atividade no AVA dá erro quando clico, alguém sabe o motivo?",ava,llm
+Não consigo localizar o botão de acesso ao Ambiente Virtual de Aprendizagem no portal da universidade. Tenho uma prova online em breve.,ava,llm
+Como posso acompanhar o andamento de um requerimento acadêmico que enviei pelo portal institucional?,sistemas,llm
+as notas de uma disciplina sumiram do meu boletim alguém sabe o que fazer,sistemas,llm
+como atualizo meus dados cadastrais no portal do estudante,sistemas,llm
+como consulto a previsao de formatura no sistema academico,sistemas,llm
+onde vejo os horarios das aulas desse semestre no sistema,sistemas,llm
+Como faço pra solicitar aproveitamento de disciplinas pelo sistema?,sistemas,llm
+como faço pra consultar minha situação academica pelo portal,sistemas,llm
+"O portal acadêmico está exibindo uma pendência que não reconheço e, por isso, não consigo avançar na matrícula. Como descubro do que se trata?",sistemas,llm
+"Não consigo entrar no sistema de matrícula e o prazo para escolher as disciplinas termina hoje, podem me orientar?",sistemas,llm
+Onde vejo se minha matrícula foi confirmada?,sistemas,llm
+O portal não mostra minhas faltas deste semestre e estou preocupada com o limite de presença. Há outro lugar para consultar essa informação?,sistemas,llm
+"O portal acadêmico está mostrando meus dados de curso incorretos, e preciso resolver isso para concluir uma solicitação hoje. Qual setor ou sistema devo procurar?",sistemas,llm
+Tem como consultar as disciplinas que já concluí?,sistemas,llm
+"Minha nota de uma disciplina não aparece no sistema, embora o professor já tenha divulgado o resultado. Como verifico se houve algum erro?",sistemas,llm
+como faço pra incluir uma materia na minha grade curricular,sistemas,llm
+meu curso aparece errado no cadastro do portal como faço pra corrigir,sistemas,llm
+"Meu quadro de horários aparece vazio no sistema, mesmo depois de confirmar a matrícula. Como verifico se as disciplinas foram registradas?",sistemas,llm
+não estou conseguindo adicionar uma matéria no sistema de matrícula,sistemas,llm
+queria saber onde confiro minhas faltas e presenças nas disciplinas,sistemas,llm
+As notas lançadas no portal estão diferentes das que recebi em sala. Onde posso consultar o boletim oficial?,sistemas,llm
+"Preciso emitir uma declaração de vínculo pelo portal, mas não sei em qual menu fica. A empresa pediu o documento com urgência.",sistemas,llm
+"Preciso consultar minhas notas no sistema, mas a página fica carregando sem abrir. Tenho que conferir uma nota antes de falar com o professor.",sistemas,llm
+"Meu histórico escolar não está disponível no portal do estudante, e preciso enviar o documento para um estágio ainda hoje. Onde consigo emitir?",sistemas,llm
+como consulto meu historico das materias que ja cursei,sistemas,llm
+o sistema de matricula nao mostra as disciplinas disponiveis pra mim,sistemas,llm
+Você poderia me orientar sobre como consultar as disciplinas ofertadas para o próximo semestre?,sistemas,llm
+o sistema não reconhece meu número de matrícula quando tento consultar minhas notas,sistemas,llm
+É possível consultar minhas notas e faltas no sistema acadêmico? Onde encontro essas informações?,sistemas,llm
+não consigo acessar o sistema de matrícula aparece uma tela em branco,sistemas,llm
+Como faço para verificar minha matrícula nas disciplinas deste semestre pelo portal institucional?,sistemas,llm
+"Preciso consultar meu histórico escolar no sistema acadêmico, mas não encontro essa opção no portal. Alguém pode me orientar rápido?",sistemas,llm
+Você poderia explicar onde encontro meu quadro de horários atualizado no sistema acadêmico?,sistemas,llm
+meu horario de aulas sumiu do sistema institucional,sistemas,llm
+Como faço pra montar minha grade de aulas no sistema?,sistemas,llm
+Acesso ao portal acadêmico,sistemas,llm
+Erro ao iniciar VPN,suporte,llm
+VPN fora do campus?,suporte,llm
+"Por gentileza, o que devo fazer se a VPN desconectar repetidamente durante o uso?",suporte,llm
+Instalei um software da faculdade e agora aparece uma mensagem de erro 😕,suporte,llm
+a vpn diz que a conexao foi recusada sera que tem algum suporte pra me orientar,suporte,llm
+minha vpn pede pra autenticar de novo toda hora tem como arrumar,suporte,llm
+Meu notebook parou de reconhecer o monitor da sala de estudos e tenho uma apresentação em instantes. Qual canal de TI devo procurar?,suporte,llm
+A conexão pela VPN cai com frequência enquanto trabalho remotamente; existe um canal para registrar esse tipo de instabilidade?,suporte,llm
+Recebi um alerta estranho no computador da universidade e agora alguns arquivos não abrem. Preciso avisar a equipe de segurança ou o suporte geral?,suporte,llm
+"A VPN informa que não foi possível estabelecer uma conexão, mesmo seguindo as instruções disponíveis. Posso falar com alguém da TI agora?",suporte,llm
+"A VPN dá erro quando tento conectar de casa, pra onde mando o chamado?",suporte,llm
+a vpn conecta mas nao consigo acessar os recursos internos da ufms,suporte,llm
+"Olá, poderiam me orientar sobre como instalar o cliente de VPN institucional no meu computador?",suporte,llm
+O computador da sala de estudos está reiniciando sozinho e perdi parte do que estava fazendo. Como aviso o suporte para verificarem a máquina?,suporte,llm
+depois que atualizei o sistema a vpn parou de funcionar oq faço,suporte,llm
+meu computador da faculdade ta travando direto quem pode dar uma olhada,suporte,llm
+A VPN da universidade desconecta a cada poucos minutos e não consigo concluir minha tarefa. Existe algum suporte que possa me atender agora?,suporte,llm
+meu notebook reinicia sozinho durante as aulas como abro um chamado pra TI,suporte,llm
+Quais informações devo incluir no chamado para facilitar o diagnóstico de uma falha técnica?,suporte,llm
+tem algum telefone ou chat pra falar com o suporte de ti,suporte,llm
+a vpn fica desconectando toda hora mesmo com a internet funcionando,suporte,llm
+Como devo proceder se um programa necessário para minhas atividades acadêmicas apresentar uma mensagem de erro ao abrir?,suporte,llm
+o pc do laboratorio nao reconhece meu pendrive onde posso pedir ajuda,suporte,llm
+A VPN institucional está apresentando uma falha de conexão; onde posso registrar um chamado para receber suporte?,suporte,llm
+Como posso acompanhar o andamento de uma solicitação de suporte de TI que já registrei?,suporte,llm
+"Estou tentando configurar a VPN no meu computador pessoal, mas a conexão nunca conclui. Existe um guia ou atendimento que possa me orientar?",suporte,llm
+"A VPN funciona no celular, mas não no meu computador, e preciso acessar os materiais do campus ainda hoje. Vocês têm algum passo a passo ou atendimento presencial?",suporte,llm
+Como faço para verificar se um problema no meu notebook é causado por algum software institucional?,suporte,llm
+Como posso verificar se a VPN está funcionando corretamente antes de acessar recursos da universidade?,suporte,llm
+"Um aplicativo acadêmico fecha sozinho assim que tento abrir, mesmo depois de reiniciar o computador. Onde posso registrar esse problema técnico?",suporte,llm
+Poderiam informar se há um procedimento para configurar a VPN em um celular?,suporte,llm
+Recebi um aviso de erro ao tentar usar um programa institucional e não sei se é problema da VPN ou do computador. Onde envio os detalhes para a equipe de TI?,suporte,llm
+o programa que uso no laboratorio ta dando erro desde ontem,suporte,llm
+Poderiam me informar se o suporte de TI atende presencialmente estudantes com problemas técnicos em equipamentos?,suporte,llm
+Não consigo instalar um programa necessário para uma atividade porque o computador pede autorização de administrador. Qual é o canal certo para pedir ajuda?,suporte,llm
+"Estou tentando acessar a VPN da universidade fora do campus, mas a conexão não se completa; poderiam me ajudar a identificar o que fazer?",suporte,llm
+"Estou tentando acessar um sistema da UFMS fora do campus, mas ele só funciona na rede interna. Como configuro a VPN com urgência?",suporte,llm
+Minha conexão pela VPN está muito lenta e mal consigo carregar os arquivos de trabalho. Onde posso registrar o problema e acompanhar o atendimento?,suporte,llm
+"Depois de uma atualização, meu notebook ficou sem áudio e tenho uma apresentação em alguns minutos. Como consigo ajuda da equipe de TI?",suporte,llm
+qual canal eu uso pra abrir um chamado de problema no computador,suporte,llm
+"Caso eu precise de suporte técnico urgente durante uma aula, qual é a forma mais rápida de entrar em contato com a TI?",suporte,llm
+"O arquivo fica carregando e não termina de subir pro Drive, alguma dica?",google_drive,llm
+"Se eu apagar um documento de um drive compartilhado, ele também será removido para os outros participantes?",google_drive,llm
+"Fiz alterações em um arquivo dentro do Drive compartilhado, mas meus colegas ainda veem a versão antiga. O que pode estar acontecendo?",google_drive,llm
+É possível restaurar um arquivo que foi excluído por engano de um drive compartilhado?,google_drive,llm
+Meu espaço pessoal está quase cheio e preciso mover materiais da disciplina para o Drive compartilhado. Qual é o jeito mais rápido?,google_drive,llm
+Tentei transferir vídeos pesados para a pasta compartilhada da turma e o envio parou no meio. Posso retomar sem começar tudo de novo?,google_drive,llm
+"Queria passar a propriedade de um documento pro drive do projeto, como faz?",google_drive,llm
+"Olá, poderiam me explicar como faço para enviar um arquivo do meu computador para o Google Drive compartilhado da minha turma?",google_drive,llm
+nao consigo abrir uma planilha que um colega colocou na pasta compartilhada aparece acesso negado,google_drive,llm
+alguem sabe como liberar um documento do google drive pra todo mundo do grupo editar,google_drive,llm
+"Enviei um arquivo para o drive compartilhado da disciplina, mas ele continua aparecendo só no meu Drive. Como confirmo se a transferência foi concluída?",google_drive,llm
+É possível transferir arquivos grandes para o drive compartilhado usando o Google Drive? Qual é o procedimento recomendado?,google_drive,llm
+"Tenho que compartilhar uma pasta com vários integrantes do projeto, mas não quero liberar acesso ao restante dos meus arquivos. Qual é o jeito certo de fazer isso?",google_drive,llm
+Mover arquivos para o Drive,google_drive,llm
+Enviar pasta pelo Drive,google_drive,llm
+"Estou com pressa para baixar todos os materiais do drive compartilhado antes de viajar, mas não encontro uma opção para baixar a pasta inteira. Onde fica?",google_drive,llm
+o arquivo que mandaram pro drive compartilhado nao aparece pra mim,google_drive,llm
+Como vejo quem tem acesso aos documentos que estão no drive compartilhado?,google_drive,llm
+"Meu grupo me passou um link do Drive compartilhado, mas não consigo enviar os vídeos para lá. Estou com prazo apertado, podem me orientar?",google_drive,llm
+como faço pra copiar os arquivos do drive compartilhado sem apagar os originais,google_drive,llm
+"Tenho que enviar agora os vídeos do meu projeto para a pasta compartilhada, mas não sei se o limite de tamanho vai impedir o upload. O que faço?",google_drive,llm
+"Estou tentando organizar os arquivos do estágio no drive compartilhado, mas recebo um aviso de espaço insuficiente. O que dá para fazer agora?",google_drive,llm
+"Se eu enviar um arquivo para um drive compartilhado, ele continuará acessível aos demais integrantes mesmo que eu saia da turma?",google_drive,llm
+qual o jeito mais facil de subir varios pdf de uma vez pro drive da sala,google_drive,llm
+tem como passar meus arquivos do meu drive pessoal pro compartilhado sem baixar tudo,google_drive,llm
+Gostaria de compartilhar um documento com os colegas pelo drive compartilhado. Como posso definir quem pode visualizar ou editar o arquivo?,google_drive,llm
+Não estou conseguindo mover um arquivo para o drive compartilhado da disciplina. Poderiam me orientar sobre as permissões necessárias?,google_drive,llm
+nao consigo arrastar os documentos pra pasta compartilhada da pesquisa,google_drive,llm
+"Recebi arquivos de outro grupo e queria transferi-los para o drive compartilhado da minha equipe, mas a opção de mover não aparece. Como contorno isso?",google_drive,llm
+Estou tentando acessar uma pasta compartilhada pelo professor e aparece que não tenho permissão. Como peço o acesso correto?,google_drive,llm
+Onde vejo os arquivos que meus colegas colocaram no Drive compartilhado?,google_drive,llm
+"Minha equipe me passou um link de uma pasta compartilhada, mas só consigo visualizar os documentos e preciso enviar meus arquivos. Como peço acesso para adicionar conteúdo?",google_drive,llm
+Como faço para baixar arquivos de um drive compartilhado e depois enviá-los para outra pasta?,google_drive,llm
+Enviei uma versão errada do relatório para o drive compartilhado e agora não consigo substituí-la sem perder o trabalho do grupo. Como faço a troca corretamente?,google_drive,llm
+Como vejo quem editou ou apagou um arquivo na pasta compartilhada?,google_drive,llm
+Como libero acesso a uma pasta do Drive pra um colega do grupo?,google_drive,llm
+Como posso verificar quem tem acesso a uma pasta e ajustar as permissões no drive compartilhado?,google_drive,llm
+O drive compartilhado do nosso projeto está quase sem espaço e precisamos enviar os arquivos finais hoje. Como verifico o armazenamento e organizo os documentos?,google_drive,llm
+Como organizo os arquivos por pastas no Drive que o grupo usa?,google_drive,llm
+Qual é a maneira correta de transferir a propriedade de um arquivo para um drive compartilhado do Google Workspace?,google_drive,llm
+"Compartilharam uma pasta comigo, mas não aparece no meu Drive. Como encontro?",google_drive,llm
+"Quero copiar os materiais do drive compartilhado da disciplina para o meu Drive, mas não sei se a cópia vai manter as permissões e os comentários.",google_drive,llm
+Alguém da equipe apagou um arquivo importante do Drive compartilhado e precisamos dele para a apresentação de hoje. Tem como recuperar?,google_drive,llm
+"O pessoal da equipe não consegue editar os arquivos que enviei pro Drive, pq?",google_drive,llm
+Ativar 2FA do Gmail,autenticacao,llm
+Dá pra usar o Google Authenticator no Gmail?,autenticacao,llm
+o aviso de acesso do gmail chega atrasado no celular como resolvo,autenticacao,llm
+"O Gmail tá pedindo um código, onde vejo isso?",autenticacao,llm
+"Ativei a verificação em duas etapas no Gmail, mas agora recebo pedidos de aprovação que não reconheço. Como posso conferir e proteger minha conta?",autenticacao,llm
+"O Gmail pede confirmação no celular antigo, mas não tenho mais ele 😕",autenticacao,llm
+Perdi acesso ao autenticador,autenticacao,llm
+tem como mudar o numero usado pra receber os codigos do gmail,autenticacao,llm
+"Estou tentando ativar a verificação em duas etapas no Gmail antes de entregar um trabalho, mas não acho essa opção nas configurações. Onde fica?",autenticacao,llm
+"Preciso configurar o app autenticador para o Gmail hoje, mas não sei onde escanear o QR code. Podem me orientar rapidinho?",autenticacao,llm
+Pra que servem os códigos alternativos da verificação em duas etapas?,autenticacao,llm
+Como faço pra o Gmail parar de pedir código toda hora no meu celular?,autenticacao,llm
+Gmail pede código sempre,autenticacao,llm
+Posso confirmar o acesso do Gmail por notificação em vez de SMS?,autenticacao,llm
+Estou tentando entrar no Gmail pelo computador da faculdade e o aviso de confirmação não aparece no meu celular. O que posso fazer agora?,autenticacao,llm
+Estou trocando de celular e gostaria de saber como transferir a autenticação de dois fatores do Gmail para o novo aparelho.,autenticacao,llm
+Apareceu uma solicitação de confirmação do Gmail que não fui eu que fiz. Como rejeito esse acesso e verifico as opções de autenticação em dois fatores da minha conta?,autenticacao,llm
+"Meu celular quebrou e ele era o único método de verificação da minha conta Gmail. Estou desesperado, como recupero o acesso?",autenticacao,llm
+Meu celular está sem sinal e preciso confirmar o login no Gmail para enviar um trabalho. Existe outro método de autenticação que eu possa usar?,autenticacao,llm
+"O código de verificação do Google não chega, o que faço?",autenticacao,llm
+perdi o celular que tinha os codigos do gmail como entro na conta agora,autenticacao,llm
+Meu Gmail está pedindo uma confirmação no celular e estou com pressa para acessar um documento. Como aprovo esse pedido de segurança?,autenticacao,llm
+"Troquei de celular, como configuro o 2FA de novo?",autenticacao,llm
+É possível receber os códigos de autenticação do Gmail por mensagem de texto? Como habilito essa opção?,autenticacao,llm
+Resolver erro no código 2FA,autenticacao,llm
+Como posso adicionar um segundo método de verificação à minha conta do Gmail para não depender apenas do celular?,autenticacao,llm
+o app autenticador nao ta gerando codigo valido pra entrar no gmail,autenticacao,llm
+O Gmail está enviando o código por SMS para um número que não uso mais. Como altero o método de verificação sem perder o acesso à conta?,autenticacao,llm
+Poderiam me orientar sobre como configurar a verificação em duas etapas do Google?,autenticacao,llm
+Perdi o celular usado para confirmar meu acesso ao Gmail. Quais alternativas tenho para entrar na conta com segurança?,autenticacao,llm
+"Depois que restaurei o celular, perdi o aplicativo autenticador e não consigo confirmar o login no Gmail. Qual é o jeito mais rápido de configurar outro método?",autenticacao,llm
+Configurar autenticação dupla do Gmail,autenticacao,llm
+"Quero ativar a confirmação em duas etapas do Gmail usando uma chave de segurança USB, mas não sei por onde começar. Tenho uma prova online em breve e estou com pressa.",autenticacao,llm
+"Ativei o 2FA e agora não consigo entrar na minha conta, ajuda?",autenticacao,llm
+Poderiam explicar como gerar códigos alternativos para acessar o Gmail caso eu não esteja com meu celular?,autenticacao,llm
+"Ativei a autenticação de dois fatores, mas não recebi o código de verificação; o que devo fazer?",autenticacao,llm
+Quais opções de segundo fator posso usar para proteger minha conta do Gmail?,autenticacao,llm
+"Não recebo o código de confirmação do Gmail, e agora?",autenticacao,llm
+É possível configurar mais de um método de verificação em duas etapas no Gmail? Como faço isso?,autenticacao,llm
+nao consigo aprovar a solicitação de login do gmail no meu telefone velhho,autenticacao,llm
+Como faço para usar o aplicativo autenticador ao entrar no Gmail?,autenticacao,llm
+"Ativei a verificação em duas etapas do Gmail, mas não sei como cadastrar meu celular. Tenho uma entrega hoje e estou com medo de ficar sem acesso à conta.",autenticacao,llm
+o aviso de login do google nao aparece no meu celular oq eu faço,autenticacao,llm
+"Ativei a autenticação de dois fatores no Gmail, mas não sei como adicionar meu número de telefone. Como faço?",autenticacao,llm
