@@ -1,4 +1,4 @@
 # Links da entrega - preencha depois de publicar o vídeo.
 # O vídeo deve ser público ou "não listado" (YouTube) / aberto a quem tem o link (Drive).
-video: 
-repositorio: 
+video: https://drive.google.com/file/d/1ro-cxBnCbylwC4z9F0xKBiQXXksmtx1x/view?usp=drive_link
+repositorio:https://github.com/Guimaraes-Mendonca/UniTi-ChatBot
